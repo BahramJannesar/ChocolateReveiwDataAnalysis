@@ -89,6 +89,18 @@ convert these colmuns to the readable columns :
 
 ![before cleaning](https://github.com/BahramJannesar/Chocolate_reveiw_data_analysis/blob/master/image/taste_table12.png)
 
+### Installation
+#### Installation (recommended)
+    pip3 install jupyter
+    
+#### Installation (recommended for visualization)
+    pip3 install seaborn
+    pip3 install matplotlib
+    
+#### Installation (recommended for data manipulation )
+    pip3 install pandas
+    pip3 install numpy
+
 ### Written By
 
 * [Soroush Ghaderi](https://github.com/SoroushGhaderi)
