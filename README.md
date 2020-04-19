@@ -89,7 +89,14 @@ convert these colmuns to the readable columns :
 
 ![before cleaning](https://github.com/BahramJannesar/Chocolate_reveiw_data_analysis/blob/master/image/taste_table12.png)
 
+### Written By
 
+* [Soroush Ghaderi](https://github.com/SoroushGhaderi)
+
+* [Bahram Jannesar](https://github.com/Bahramjannesar)
+
+### Lisence 
+See full license on [this](https://opensource.org/licenses/MIT) , Under MIT License 
 
 
 
