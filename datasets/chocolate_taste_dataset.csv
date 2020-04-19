@@ -1,0 +1,841 @@
+taste,count_of_taste
+nutty,238
+sweet,237
+cocoa,203
+roasty,198
+creamy,184
+earthy,164
+sandy,153
+fatty,149
+floral,133
+intense,132
+spicy,122
+sour,122
+molasses,82
+woody,80
+vanilla,78
+sticky,77
+fruit,74
+coffee,69
+rich,67
+gritty,65
+dried fruit,60
+dry,59
+grassy,56
+bitter,56
+tart,54
+caramel,54
+spice,53
+rich cocoa,52
+complex,47
+fruity,47
+oily,46
+smokey,45
+dairy,42
+banana,41
+brownie,41
+smoke,39
+acidic,36
+vegetal,34
+astringent,32
+off,31
+tobacco,31
+pungent,31
+metallic,30
+cherry,30
+hammy,29
+mild fruit,28
+nut,28
+mild bitter,28
+red berry,27
+coarse,25
+off notes,25
+black pepper,24
+strawberry,24
+honey,24
+rubbery,23
+melon,23
+citrus,23
+dirty,22
+marshmallow,22
+smooth,22
+basic cocoa,21
+nuts,21
+burnt,21
+rubber,21
+tangy,19
+green,19
+bland,18
+orange,18
+chalky,18
+muted,18
+berry,18
+bold,17
+grapes,17
+lemon,16
+balanced,16
+licorice,16
+medicinal,16
+powdery,16
+dark berry,15
+red fruit,15
+coconut,15
+heavy roast,15
+mint,14
+chemical,14
+sour milk,14
+simple,13
+waxy,13
+rum,13
+perfume,13
+flat,13
+peanut butter,13
+butterscotch,13
+rustic,13
+savory,13
+off note,13
+cardboard,13
+unrefined,13
+bright fruit,12
+fig,12
+raspberry,12
+few grits,12
+chewy,12
+ashey,12
+raisins,12
+ham,11
+bourbon,11
+grape,11
+tea,11
+high roast,11
+mild smoke,11
+long,11
+light color,11
+leather,11
+mild,11
+strong vanilla,11
+mild cocoa,10
+black licorice,10
+leathery,10
+delicate,10
+buttery,9
+woodsy,9
+harsh,9
+raisin,9
+very sweet,9
+grits,9
+cinamon,9
+blackberry,9
+high acidity,8
+sweet edge,8
+gummy,8
+dirt,8
+hazelnut,8
+deep cocoa,8
+mild spice,8
+gateway,8
+musty,8
+tannic,7
+cream,7
+toffee,7
+subtle,7
+chunky,7
+roasted nuts,7
+peanut,7
+blueberry,7
+mocha,7
+hay,6
+palm,6
+nutmeg,6
+too sweet,6
+choco,6
+large grits,6
+basic,6
+short,6
+spicey,6
+mild metallic,6
+fuel,6
+candy-like,6
+salt,6
+mild sour,6
+mushroom,6
+candied,6
+pepper,6
+cheese,6
+sour fruit,6
+poor aftertaste,6
+late sour,5
+olive,5
+cocoa base,5
+anise,5
+salty,5
+hot cocoa,5
+chocolatey,5
+candy,5
+minty,5
+burnt rubber,5
+herbal,5
+mild coffee,5
+long lasting,5
+malt,5
+grainy,5
+mild nutty,5
+mellow,5
+pastey,5
+raw,5
+bready,5
+high astringent,5
+butter,4
+maple,4
+sl. Burnt,4
+mild tart,4
+metal,4
+robust,4
+yogurt,4
+grass,4
+fudgey,4
+mild citrus,4
+burnt nuts,4
+mild floral,4
+rich choco,4
+slow,4
+wine,4
+strong floral,4
+herbs,4
+rich brownie,4
+base cocoa,4
+soapy,4
+mild cherry,4
+bread,4
+overly sweet,3
+grit,3
+nibby,3
+dark roast,3
+cardamom,3
+chocolate,3
+fudge-like,3
+soil,3
+mild roasty,3
+mild choco,3
+earth,3
+slight burnt,3
+accessible,3
+strong,3
+intense floral,3
+mild honey,3
+cherries,3
+mild molasses,3
+fragrant,3
+tang,3
+cloying,3
+burning,3
+mild fatty,3
+mild hammy,3
+slightly burnt,3
+off aroma,3
+deep choco,3
+swiss miss,3
+one dimensional,3
+over roasted,3
+muddy,3
+cashew,3
+subdued,3
+tropical,3
+off flavor,3
+pure,3
+berries,3
+sunflower,3
+intense smoke,3
+intense cocoa,3
+cheesy,3
+spciy,3
+vinegar,3
+burnt caramel,3
+fresh nibs,2
+oily surface,2
+intense banana,2
+oranges,2
+apple,2
+sour banana,2
+distinct,2
+unbalanced,2
+thick,2
+moss,2
+full bodied,2
+sour orange,2
+very sandy,2
+peach,2
+crumbly,2
+pear,2
+cooling sensation,2
+pistachio,2
+silky,2
+non descript,2
+empty,2
+papaya,2
+strong bitter,2
+roasted,2
+moldy,2
+uneven,2
+burnt wood,2
+molassses,2
+mild earthy,2
+grainy texture,2
+hints of fruit,2
+bright red,2
+chemical off,2
+slight bitter,2
+dense,2
+fat,2
+large nibs,2
+some spice,2
+grapefruit,2
+mild dried fruit,2
+spicy pepper,2
+powerful,2
+sour notes,2
+very bitter,2
+hint of fruit,2
+atypical,2
+mild tobacco,2
+mass market,2
+chemical off note,2
+sugar dominates,2
+grain,2
+strawberries,2
+dates,2
+intense earthy,2
+spices,2
+cucumber,2
+mild banana,2
+some fruit,2
+high astringency,2
+mild mint,2
+artificial,2
+wood,2
+short length,2
+green apple,2
+true to sugar,2
+slow develop,2
+black tea,2
+tart red berry,2
+strong spice,2
+almond,2
+tea-like,2
+diluted,2
+toast,2
+rich chocolate,2
+hot spice,2
+overyly sweet,2
+flour,2
+fig notes,1
+rich hot cocoa,1
+dried sour fruit,1
+vanilla domintates,1
+burnt cocoa,1
+mild anise,1
+cough medicine,1
+mild marshmallow,1
+mild licorice,1
+roasted cocoa,1
+coffee notes from roaster,1
+prunes,1
+some roasty notes,1
+mellow but flavorful,1
+leathery flavor,1
+orange citrus,1
+burlap,1
+overly tart,1
+sligthly bland,1
+true to sugar bar,1
+spicy mild molasses,1
+slight plum,1
+tropical fruit,1
+bright berry,1
+rainins,1
+light rum,1
+mild pear,1
+brownie batter,1
+true to origin,1
+ginger,1
+pomegrant,1
+mild flavors,1
+crisp nibs,1
+Roasty,1
+almond butter,1
+roaste brownie,1
+mild sweet cocoa,1
+simple cocoa note,1
+non-descript,1
+mild fruit & nut,1
+floral-spice mix,1
+mild berry,1
+burning sensation,1
+metallic edge,1
+brandy,1
+mild off note,1
+chemical or burnt note,1
+slight sour,1
+off sour,1
+mild lemon,1
+spicy edge,1
+sl. burnt,1
+bright,1
+roasted vegetal,1
+high astringcy,1
+mild ham,1
+sandy texture,1
+late tart notes,1
+mild nutty & woody,1
+uncontrolled bitterness,1
+late sour & molasses,1
+burnt cinnamon,1
+meaty,1
+fertilzer,1
+prononced orange,1
+ambiguous,1
+burnt black pepper,1
+brownie like,1
+hebs,1
+nibs add bitterness,1
+undefined,1
+menthol,1
+wet,1
+off medicinal,1
+unrecognizable,1
+crunchy,1
+pudding,1
+mildly burnt,1
+smomkey cocoa,1
+very nutty,1
+rich cocoa dominates,1
+roasted cherry,1
+herb,1
+mild dairy,1
+nuanced,1
+mild grape,1
+sublte grape notes,1
+delicate fruit,1
+strong off flavor,1
+bold citrus,1
+lime,1
+ends sour,1
+off nutty,1
+nutella,1
+late tart,1
+easy melt,1
+rich fruit,1
+possible mold,1
+earthen,1
+late choco,1
+charcoal,1
+slight cherry,1
+burnt fuel,1
+melon like,1
+gentle roast,1
+burnt molasses,1
+whole bean,1
+easter candy,1
+Cadbury egg,1
+intense blueberry,1
+mild nuts,1
+full body,1
+tangerine,1
+intense tangerine,1
+banana cream,1
+harsh smoke,1
+odd dairy,1
+chunky melt,1
+then off,1
+coffee grounds,1
+alcohol,1
+mild musty,1
+sour coffee,1
+sour veggie,1
+off notes of rubber,1
+strong coffee,1
+wild berry,1
+harsh ending,1
+bold olive,1
+chlorine,1
+candy tart,1
+burn,1
+fades fast,1
+mild off,1
+slight musty,1
+clove,1
+tangy wine,1
+cheesey,1
+mild burnt,1
+mild burn,1
+strong choco,1
+fruit punch,1
+vanilla(n),1
+soap,1
+hit of anise,1
+off sour note,1
+slight metallic,1
+off fatty note,1
+synthetic,1
+candy spice,1
+peanutbutter,1
+berry notes,1
+hint of berry,1
+unpleasant,1
+walnut,1
+watery,1
+surface mark,1
+intense brownie,1
+masculine,1
+mellow choco,1
+melon notes,1
+fudge,1
+subtle fruit,1
+roasted caramel,1
+soy,1
+intense bitter,1
+pasty,1
+intense vinegar,1
+roasted cacao,1
+earthy ending,1
+off chemical,1
+earthy green,1
+spoiled,1
+sweet spices,1
+sour tang,1
+chocolate base off,1
+distinquished,1
+rich and spicy,1
+earty,1
+green fruit,1
+sour ending,1
+mild orange,1
+sweet cocoa,1
+simple cocoa,1
+bread notes,1
+mostly bitter,1
+slight woody,1
+subtle dairy,1
+off rubber,1
+fruit forward,1
+classic,1
+long and rich,1
+tart citrus,1
+bitter aftertaste,1
+delicate cocoa,1
+medium roasted cocoa,1
+choco pudding,1
+pungent grape,1
+watering,1
+mild coffee and rum,1
+roasted banana,1
+slightly tart,1
+why bother,1
+very bland,1
+sligt burnt,1
+spicy cinnamon,1
+unripened fruit,1
+coffee ground,1
+fat residue,1
+rubber off,1
+nibs too soft,1
+late cocoa notes,1
+blueberries,1
+large unground pieces,1
+rich cooa,1
+mild ashey,1
+strong chemical,1
+strong molasses,1
+mild tannic,1
+very astringent,1
+green mint,1
+rich burnt caramel,1
+mild rubber,1
+mild vanilla,1
+burnt brownie,1
+brownie mix,1
+wtf,1
+chocolate ice cream,1
+muted strawberry,1
+intense coffee,1
+harsh woody,1
+pronounced berry,1
+well developed,1
+cheesy off flavor,1
+strong fruit,1
+strong cocoa,1
+unique flavor,1
+intense olive,1
+baked bread,1
+black current,1
+cocoa and coconut,1
+sl. sweet,1
+mild woody,1
+mild strawberry,1
+poor texture,1
+sour off flavor,1
+mildly rich,1
+sour grapes,1
+mildly burnt caramel,1
+cocoa and fresh grapes,1
+blackberries,1
+chocolate covered banana,1
+mild smoke and fruit,1
+slight dry,1
+sandpaper,1
+choco covered strawberry,1
+very coarse,1
+sl. dry,1
+plums,1
+malitol,1
+dominated by heavy roast,1
+prominent plum note,1
+intens,1
+carrots,1
+brownine,1
+very sour,1
+light perfume,1
+ultra fruity,1
+watered down coffee,1
+spoiled milk,1
+harsh burnt,1
+aluminum,1
+multiple off flavors,1
+intense mocha flavor,1
+potting soil,1
+raisiny,1
+dutched?,1
+intense vanilla,1
+spicy and fragrant,1
+roasty/smokey,1
+accesible,1
+tropical fruit and mild smoke,1
+bitter coffee flavor,1
+strong raspberry,1
+well balanced,1
+mild vanilla and mild fruit,1
+medium roast,1
+poor finish,1
+candy like,1
+fungal,1
+sour raisin,1
+cardamon,1
+high acid,1
+mild caramel,1
+harsh flavor,1
+full flavor spectrum,1
+mostly earthy,1
+pungent raisin,1
+XL nibs,1
+very spicy,1
+low refinement,1
+smoth,1
+cocounut,1
+smooth texture,1
+blackpepper,1
+slightly dry,1
+cinamon and nutmeg,1
+ham-like,1
+dark cocoa,1
+bitter then nutty rustic,1
+intense marshmallow,1
+assertive,1
+chocolate covered cherries,1
+sweet grass,1
+pungent off flavor,1
+roasty and under refined,1
+base cocoa w/ palm notes,1
+subtle but refreshing,1
+black pepper and banana,1
+sl. bitter,1
+burn butterscotch,1
+slight roasty,1
+appealing smoke,1
+light roast,1
+fruity with coffee notes,1
+red wine,1
+waxy mouthfeel,1
+strong pepper,1
+spicy and candy-like,1
+cocoa and powerful tang,1
+yellow fruit,1
+alluring aroma,1
+mild profile,1
+sliglty dry,1
+brief fruit note,1
+off pungent,1
+distinct lemon,1
+blackberry and cinnamon,1
+well defined,1
+nice melt,1
+texture issues,1
+dark coffee,1
+intense fruit,1
+mild fruit and spice,1
+tropical berry,1
+burnt honey,1
+ripe grapes,1
+late cocoa,1
+near perfect shine,1
+molasses notes from sugar,1
+dark forest berry,1
+caramel and cocoa,1
+candy like off flavor,1
+sweet spice,1
+dark woody,1
+cocoa flavor dominates,1
+ripe orange,1
+deep cherry,1
+banana nut,1
+harsh aroma,1
+coffee and cocoa,1
+intense orange,1
+sl. chalky,1
+slightly metallic,1
+med roast,1
+mild metallic and spice,1
+strong nutty with off notes,1
+burnt up front,1
+burnt coffee,1
+klingy,1
+candy spices,1
+slight grainy,1
+hot spices,1
+very grassy,1
+macadamia,1
+light toffee,1
+strong wine,1
+off spicey,1
+muted spice,1
+dominant tobacco,1
+homey,1
+almost burnt,1
+lavendar,1
+rich mocha,1
+cooked banana,1
+alocohol,1
+slight hammy,1
+sour dairy,1
+raspberries,1
+candy flavor,1
+rounded,1
+sugary,1
+distinct spicey,1
+dominate off note,1
+very smokey,1
+late hammy,1
+mysterious,1
+high astringnet,1
+oddly sweet,1
+intense pepper,1
+sublte strawberry,1
+chocolaty,1
+alkalyzed notes,1
+strong smoke,1
+strong nutty,1
+unique,1
+flat flavor,1
+intense prune and berry,1
+odd rubber notes,1
+candy like vanilla,1
+oreo shell,1
+moderate acidity,1
+holiday spice,1
+plum,1
+strong sour,1
+dirt/ earthy,1
+fruit medley,1
+lingering coffee,1
+bitter ending,1
+very roasty,1
+raisns,1
+roasty nibs,1
+rasin,1
+melon floral,1
+less intense berry,1
+winey,1
+light lime,1
+cigarette butt,1
+floral notes,1
+odd,1
+fruity then nutty,1
+earthy off notes,1
+banana raspberry,1
+mild choco & leather,1
+leafy,1
+very spicey,1
+mild intensity,1
+controlled bitter,1
+very acidic,1
+Andes mint,1
+hint of smoke,1
+heavy smoke,1
+sour fig,1
+strong rubber,1
+sour palm,1
+dominant savory,1
+intense plum,1
+refined,1
+Easter candy,1
+dominant spice,1
+strong spicey,1
+intense fruity,1
+deep,1
+uneven melt,1
+strong smokey tobacco,1
+clingy,1
+sharp,1
+full cocoa flavor,1
+smoke dominates,1
+mildy nutty,1
+bright red fruit,1
+berry notes with sweet edge,1
+mild smokey,1
+simple red berry,1
+intense spicy,1
+vegetable and honey,1
+intense spice,1
+intensely smokey,1
+intense grapes,1
+strong base cocoa,1
+single note,1
+notes from sugar,1
+Fruity,1
+overly intense,1
+rough,1
+smoked ham,1
+bold cherry,1
+rich base cocoa,1
+modest,1
+walnuts,1
+pronounced fruit,1
+dull,1
+baked,1
+roasty cocoa,1
+roasted strawberry,1
+nutty and bitter dominate,1
+cigar,1
+cocoa dominates,1
+intense sweet,1
+mellow fruit,1
+mild nutty and fruit,1
+strong malt,1
+salt noticeable,1
+dark color,1
+dried fig,1
+savory lemon,1
+burnt black licorice,1
+sticy,1
+robust dark tropical fruit,1
+evolves black pepper to citrus,1
+basic chocolate,1
+cranberries,1
+super temper,1
+slow to develop,1
+subtle red berry,1
+molasses undertone,1
+fudgey then spicy,1
+ligt color,1
+light brown,1
+mild cacao and fruit notes,1
+mold,1
