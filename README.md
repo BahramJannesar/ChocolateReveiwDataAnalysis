@@ -73,7 +73,7 @@ Due to the dirty and indistinguishable dataset of taste, we had to separate and 
 
 convert these colmuns to the readable columns :
 
-before converting :
+#### before converting 
 
 * First taste
 * Second taste
@@ -82,7 +82,7 @@ before converting :
 
 ![before cleaning](https://github.com/BahramJannesar/Chocolate_reveiw_data_analysis/blob/master/image/tastte%20table.png)
 
-after converting :
+#### after converting :
 
 * taste	
 * count of taste
