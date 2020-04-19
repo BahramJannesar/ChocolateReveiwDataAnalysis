@@ -69,12 +69,34 @@ In this analysis we want to find out which atrributes lead us to create best cho
 
 ![before cleaning](https://github.com/BahramJannesar/Chocolate_reveiw_data_analysis/blob/master/image/table2.png)
 
-Due to the dirty and indistinguishable dataset of flavor, we had to separate and create a special data set for the flavors to analyze the data information.
+Due to the dirty and indistinguishable dataset of taste, we had to separate and create a special data set for the tastes to analyze the data information.
+
+convert these colmuns to the readable columns :
+
+#### before converting 
+
+* First taste
+* Second taste
+* Third taste
+* Fourth taste
+
+![before cleaning](https://github.com/BahramJannesar/Chocolate_reveiw_data_analysis/blob/master/image/tastte%20table.png)
+
+#### after converting :
 
 * taste	
 * count of taste
 
+![before cleaning](https://github.com/BahramJannesar/Chocolate_reveiw_data_analysis/blob/master/image/taste_table12.png)
 
+### Written By
+
+* [Soroush Ghaderi](https://github.com/SoroushGhaderi)
+
+* [Bahram Jannesar](https://github.com/Bahramjannesar)
+
+### Lisence 
+See full license on [this](https://opensource.org/licenses/MIT) , Under MIT License 
 
 
 
