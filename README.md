@@ -69,7 +69,10 @@ In this analysis we want to find out which atrributes lead us to create best cho
 
 ![before cleaning](https://github.com/BahramJannesar/Chocolate_reveiw_data_analysis/blob/master/image/table2.png)
 
+Due to the dirty and indistinguishable dataset of flavor, we had to separate and create a special data set for the flavors to analyze the data information.
 
+* taste	
+* count of taste
 
 
 
