@@ -6,9 +6,9 @@ Chocolate is a preparation of roasted and ground [cacao](https://en.wikipedia.or
 ### Cholocate Review 
 Chocolate is one of the most popular candies in the world . because of this , the most important part of this bussiness is chocolate review , Up to 10 reputable sites,paid attention to the chocolate review issue like these website :
 
-* http://www.chocolatereviews.co.uk/
+* http://www.chocolatereviews.co.uk
 
-* https://www.c-spot.com/
+* https://www.c-spot.com
 
 * http://flavorsofcacao.com/index.html
 
